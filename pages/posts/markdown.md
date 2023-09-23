@@ -47,5 +47,3 @@ Whether you're a seasoned developer or just starting out, Python is a great lang
 - [Official Python Website](https://www.python.org)
 - [Python Documentation](https://docs.python.org/3/)
 - [Python on Codecademy](https://www.codecademy.com/learn/learn-python-3)
-
-#END
