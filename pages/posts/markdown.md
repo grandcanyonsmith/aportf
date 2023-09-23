@@ -1,8 +1,8 @@
 ---
 title: Python: A Powerful, Flexible, and Fun Language
-date: 2021/3/19
+date: 2021-03-19
 description: Dive into the world of Python and discover why it's a favorite among many developers.
-tag: Python, programming, web development
+tags: Python, programming, web development
 author: You
 ---
 
